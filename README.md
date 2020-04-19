@@ -1,2 +1,4 @@
-# laravel-autodeploy
-Laravel Package to auto deploy from Git Repo via webhooks
+# Laravel Auto-Deploy
+
+A Laravel Package to auto-deploy from a Git Repo.
+
